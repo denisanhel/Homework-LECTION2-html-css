@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19f0b02a-4921-45e5-8d25-063648f58083" name="Changes" comment="Виконав 2 завдання в 2-task.html">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-task/3-task.css" beforeDir="false" afterPath="$PROJECT_DIR$/3-task/3-task.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-task/3-task.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-task/3-task.html" afterDir="false" />
-    </list>
+    <list default="true" id="19f0b02a-4921-45e5-8d25-063648f58083" name="Changes" comment="Виконав 3 завдання в 3-task.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +72,7 @@
       <workItem from="1706819727870" duration="941000" />
       <workItem from="1706820703050" duration="197000" />
       <workItem from="1706820912403" duration="15000" />
+      <workItem from="1706820945222" duration="321000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав 1 завдання в 1-task.html">
       <option name="closed" value="true" />
@@ -93,15 +90,35 @@
       <option name="project" value="LOCAL" />
       <updated>1706818664885</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Виконав 3 завдання в 3-task.html">
+      <option name="closed" value="true" />
+      <created>1706821086000</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706821086000</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Виконав 1 завдання в 1-task.html" />
     <MESSAGE value="Виконав 2 завдання в 2-task.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконав 2 завдання в 2-task.html" />
+    <MESSAGE value="Виконав 3 завдання в 3-task.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виконав 3 завдання в 3-task.html" />
   </component>
 </project>
