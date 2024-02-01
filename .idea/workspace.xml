@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19f0b02a-4921-45e5-8d25-063648f58083" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-task/1-task.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-task/1-task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework-LECTION2-html-css.iml" afterDir="false" />
+    <list default="true" id="19f0b02a-4921-45e5-8d25-063648f58083" name="Changes" comment="Виконав 1 завдання в 1-task.html">
+      <change afterPath="$PROJECT_DIR$/2-task/2-task.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-task/2-task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-task/3-task.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-task/3-task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +68,28 @@
       <workItem from="1706815927972" duration="298000" />
       <workItem from="1706816279070" duration="64000" />
       <workItem from="1706816489478" duration="730000" />
-      <workItem from="1706817304856" duration="365000" />
+      <workItem from="1706817304856" duration="438000" />
+      <workItem from="1706817815845" duration="19000" />
+      <workItem from="1706817845891" duration="219000" />
+      <workItem from="1706818121718" duration="88000" />
+      <workItem from="1706818271216" duration="380000" />
     </task>
+    <task id="LOCAL-00001" summary="Виконав 1 завдання в 1-task.html">
+      <option name="closed" value="true" />
+      <created>1706817690046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706817690046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Виконав 1 завдання в 1-task.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виконав 1 завдання в 1-task.html" />
   </component>
 </project>
